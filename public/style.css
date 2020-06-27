@@ -1,0 +1,78 @@
+.body{
+    margin: 0 auto;
+    padding: 0px;
+}
+body{
+    background-image: linear-gradient(to right , rgb(250, 137, 250), rgb(221, 97, 118));
+}
+#main{
+    padding: 0px;
+    /* margin: 0 auto; */
+    position: absolute;
+    top: 19%;
+    left:39% ;
+}
+table ,#clear{
+    border: 1px solid rgb(248, 248, 248);
+  }
+  #clearbtn{
+    /* opacity: 0.5; */
+  font-size: 33px;
+  font-weight: bold;    
+  width: 100%;
+  height: 62px;
+  border: none;
+    background-color: rgb(97, 94, 90);
+  cursor: pointer;
+  outline: none;
+  }
+  #btn :hover{
+      font-size: 40px;
+      opacity: 1.0;
+  }
+  #btn{
+      color: rgb(29, 0, 0);
+      /* opacity: 0.5; */
+    font-weight: bold;
+    margin-top: 2px;
+    font-size: 33px;
+    border: none;
+    background-color: rgb(97, 94, 90);
+    width: 82px;
+    height: 90px;
+    cursor: pointer;
+    outline: none;
+}
+#downbtn{
+    /* opacity: 0.5; */
+    font-size: 33px;
+    font-weight: bold;
+    border: none;
+    background-color: rgb(97, 94, 90);
+    width: 170px;
+    height: 90px;
+    outline: none;
+    cursor: pointer;
+    transform: 0.2ease;
+}
+#result{
+    font-weight: bolder;
+    /* opacity: 0.5; */
+    font-size: 25px;
+    width: 97%;
+    line-height: 80px;
+}
+#bttmbtn{
+    color: rgb(29, 0, 0);
+      /* opacity: 0.5; */
+    font-weight: bold;
+    margin-top: 2px;
+    font-size: 33px;
+    border: none;
+    background-color: rgb(97, 94, 90);
+    width: 82px;
+    height: 90px;
+    cursor: pointer;
+    outline: none;
+}
+
